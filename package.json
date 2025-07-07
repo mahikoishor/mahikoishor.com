@@ -1,7 +1,7 @@
 {
-  "name": "ammmahikaishar.com",
+  "name": "mahikoishor.com",
   "version": "0.1.0",
-  "author": "ammmahikaishar <ammmahikaishar@gmail.com>",
+  "author": "mahikoishor <mahikoishor@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",
